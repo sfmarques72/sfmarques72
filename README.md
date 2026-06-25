@@ -1,27 +1,61 @@
-## Olá, meu nome é Stephane Marques ❤
+# Stephane Marques
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ste-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ste-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ste-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ste-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ste-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ste-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Ste-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img align="center" alt="Ste-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Ste-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-</div>
-  
-  ## Sobre mim  
-Uma desenvolvedora full stack apaixonada por tecnologia, inovação e desafios! 💡💻
-Atualmente, trabalho com **Python, React e MongoDB**, construindo aplicações dinâmicas e escaláveis.
-Meu foco? Django, APIs e desenvolvimento full stack, sempre buscando soluções criativas e eficientes.
+## Sobre mim
 
-Gosto de transformar ideias em código, aprender novas tecnologias e criar **experiências incríveis**. Se você procura alguém com energia, curiosidade e vontade de fazer a diferença, bora conversar! 😊✨
-  
-  ## Conecte-se comigo 🌎
-  <div> 
-    <a href="https://github.com/sfmarques72" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/stephane-marques-devfull/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="mailto:sfmarques72@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </div>
+Desenvolvadora Full Stack com foco em TypeScript, React e Python.
+Gosto de construir aplicacoes web completas, desde APIs RESTful com Django
+ate interfaces modernas com React e Next.js.
+Atualmente explorando AWS (CloudFormation, Step Functions, EC2) e expandindo
+habilidades em cloud e infraestrutura.
+
+- Localizacao: Brasil
+- Foco atual: Full Stack Web + AWS Cloud
+- Contato: sfmarques72@gmail.com
+- LinkedIn: https://www.linkedin.com/in/stephane-marques-devfull/
+
+---
+
+## Tech Stack
+
+### Front-end
+- TypeScript, JavaScript, React, Next.js
+- HTML5, CSS3
+
+### Back-end
+- Python, Django
+- C#, .NET
+
+### Banco de Dados
+- MongoDB
+
+### Cloud & DevOps
+- AWS (CloudFormation, Step Functions, EC2, AMI)
+- Shell Script
+
+---
+
+## Projetos em Destaque
+
+### portifolio-dev
+Portfolio pessoal desenvolvido com JavaScript, apresentando projetos e habilidades.
+https://github.com/sfmarques72/portifolio-dev
+
+### portfolio
+Versao atualizada do portfolio, construida com TypeScript para maior robustez.
+https://github.com/sfmarques72/portfolio
+
+### trilha-net-fundamentos-desafio
+Desafio pratico de .NET Fundamentos realizado na plataforma DIO.
+https://github.com/sfmarques72/trilha-net-fundamentos-desafio
+
+### prjContatos
+Aplicacao de gerenciamento de contatos.
+https://github.com/sfmarques72/prjContatos
+
+---
+
+## Contato
+
+- GitHub: https://github.com/sfmarques72
+- LinkedIn: https://www.linkedin.com/in/stephane-marques-devfull/
+- E-mail: sfmarques72@gmail.com
